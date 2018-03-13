@@ -1,0 +1,18 @@
+{
+    "name": "adan/web-maxilacteos",
+    "authors": [
+        {
+            "name": "George",
+            "email": "menikers@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "phpmailer/phpmailer": "~6.0"
+	},
+    
+    "require-dev": {
+       "heroku/heroku-buildpack-php": "*"
+    }
+}
+	
