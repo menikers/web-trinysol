@@ -1,0 +1,16 @@
+{
+  "name": "bitware",
+  "slug": "bitware",
+  "author": "betuzo <betotsol@gmail.com>",
+  "version": "0.0.1",
+  "node": "0.8.9",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "socket.io": "*",
+    "jade": "*",
+    "xmlbuilder": "0.4.x"
+  }
+}
